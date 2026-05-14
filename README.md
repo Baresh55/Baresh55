@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baresh55
-- 👀 I’m interested in improving my data analytics skills and getting work
-- 🌱 I’m currently learning SQL and R
+- 👀 I’m interested in publishing my data analytics projects for feedback
+- 🌱 I’m skilled in SQL and R
 - 💞️ I’m looking to collaborate on issue tracking and github discussions
 - 📫 How to reach me andrewtwg6@gmail.com
 
